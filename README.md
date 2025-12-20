@@ -13,7 +13,7 @@ BOM:
 * 6x Cherry MX Switches
 * 2x SK6812 MINI Leds
 * 1x XIAO RP2040
-* 4x Blank DSA Keycaps
+* 6x Blank DSA Keycaps
 * 4x M3x16 Bolt
 * 4x M3 Heatset
 
@@ -22,15 +22,9 @@ Others:
 * Top Case.step
 * Dario Hackpad.step
 
-Schematic
+![Schematic](images/schematic.png)
 
-images/schematic.png
-PCB 
+![PCB](images/pcb.png)
 
-images/pcb.png
-
-Case
- 
-images/Case_B.png
-images/Case_B.png
-
+![Bottom Case](images/Case_B.png)
+![Top Case](images/Case_T.png)
