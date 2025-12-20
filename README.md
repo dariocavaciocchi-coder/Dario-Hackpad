@@ -24,15 +24,13 @@ Others:
 
 Schematic
 
-"C:\Users\dario\Pictures\schematic.png"
-
+images/schematic.png
 PCB 
 
-"C:\Users\dario\Pictures\pcb.png"
+images/pcb.png
 
 Case
  
-"C:\Users\dario\Pictures\Case_B.png"
-
-"C:\Users\dario\Pictures\Case_T.png"
+images/Case_B.png
+images/Case_B.png
 
