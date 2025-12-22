@@ -28,3 +28,6 @@ Others:
 
 ![Bottom Case](images/Case_B.png)
 ![Top Case](images/Case_T.png)
+
+![Assembled](images/Assembled.png)
+
