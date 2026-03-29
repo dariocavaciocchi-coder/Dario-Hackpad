@@ -31,3 +31,4 @@ Others:
 
 ![Assembled](images/Assembled.png)
 
+![Finished](images/finished.jpg)
